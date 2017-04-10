@@ -1,4 +1,4 @@
 # junitExample
 JUnit Testing Example
 
-testing
+[![Build Status](https://travis-ci.org/zerasul/junitExample.svg?branch=master)](https://travis-ci.org/zerasul/junitExample)
