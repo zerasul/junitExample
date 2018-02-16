@@ -1,4 +1,4 @@
 language: java
 jdk:
-  - oraclejdk7
+  - oracle-java8-installer
 script: mvn test -f UnitExample/pom.xml
